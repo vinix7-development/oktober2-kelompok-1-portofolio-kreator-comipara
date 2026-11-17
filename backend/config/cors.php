@@ -10,7 +10,7 @@ return [
         'http://localhost:3000',
         'http://127.0.0.1:3000',
         'http://localhost:3001',
-        'https://oktober2-kelompok-1-portofolio-krea.vercel.app/',
+        'https://oktober2-kelompok-1-portofolio-krea.vercel.app',
     ],
 
     'allowed_origins_patterns' => [],
